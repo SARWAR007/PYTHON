@@ -1,0 +1,33 @@
+gk8QjV0qfRol0pDlEfY9vVtsdAN3ohChFvvii5nk
+
+
+AKIAUWDFOBS4EPRLMJKE
+
+
+top 5 countries in medal taly and arrange in desc order
+atheletes who get same # of medals
+
+total numbers of medal invuding swimming
+
+find countir got more medals each year
+
+
+descriptive statistic - Measure of Central Tendency,Measure of dispersion,Standard Deviation,Variance,Range ,IQR (),Box Plot ,Whisker Plot
+Skewness and Curtosis
+
+inferential statistics - Z-Test,T-test,Chi Square Test,Anova Test,P-value Test,F-Test
+
+
+Supervised ML - Linear Regression,Multile LInear regresssion,Logistic  regression,SVM,Decision Tree,Random Forest,KNN 
+
+UnsuerVised ML- K-Means CLustering, PCA,
+
+-->VAlidation -- K-fold Cross Validation
+              -- COnfusion Metrics
+---Scikit Learn
+
+Halt -Winters ,Arima
+Reinforcemnet ML
+
+
+

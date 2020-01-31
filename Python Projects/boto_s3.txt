@@ -1,0 +1,9 @@
+import boto3
+import pandas as pd
+s3 = boto3.client('s3', aws_access_key_id='AKIAUWDFOBS4EPRLMJKE' , aws_secret_access_key='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')
+#content_object = s3.findAll('farhanbucket007', 'olympics.csv')
+
+content_object = s3.get_object(Bucket = 'farhanbucket007',Key = 'olympics.csv')
+
+df = pd.read_csv(content_object['Body'])
+df
