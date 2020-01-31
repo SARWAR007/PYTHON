@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>List</title>
+</head>
+<body>
+
+<h3>Spends Information</h3>
+<table border=5>
+    <thead>
+        <td>transaction_id</td>
+        <td>Spends</td>
+        <td>Month</td>
+        <td>Amount</td>
+    </thead>
+
+    {% for row in rows %}
+
+        <tr>
+            <td>{{row["transaction_id"]}}</td>
+            <td>{{row["Spends"]}}</td>
+            <td>{{row["Month"]}}</td>
+            <td>{{row["Amount"]}}</td>
+        </tr>
+
+    {% endfor %}
+</table>
+<br><br>
+
+<a href="/">Go back to home page</a>
+
+</body>
+</html>
